@@ -1,0 +1,2 @@
+# Pmore
+Example of store
